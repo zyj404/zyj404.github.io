@@ -10,7 +10,6 @@ location: "Beijing, China"
 
 
 ## motivation
-motivation是教npy用markdown写笔记.
 
 常用的markdown编辑软件包括 **Typora, Vscode, Zettlr** 等. 其中 Typora 收费, 而cser 绝大多数代码都在 Vscode 中完成, 因此本教程是基于 Vscode 编写 md. 也可以用 notion 等笔记软件, 它们甚至可以将产出直接同步至个人主页, 但我始终认为 Vscode 作为综合性的 IDE (而非单独的笔记软件) 可以更自由更定制化, 自然配置和编写的难度也更高. 
 
