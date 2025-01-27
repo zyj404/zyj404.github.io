@@ -8,6 +8,9 @@ date: 2025-1-27
 location: "Beijing, China"
 ---
 
-{% raw %}{% include for_blog/econ-mindmap.html %}{% endraw %}
+
+{% include for_blog/econ-mindmap.html %}
+{% include econ-mindmap.html %}
+{% include archive-single.html %}
 
 正文内容...
