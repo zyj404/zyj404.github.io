@@ -12,3 +12,4 @@ author_profile: true
 - [去中心化学习小组]({{ "/Blogs/去中心化学习小组" | relative_url }})
 - [诗词]({{ "/Blogs/诗词" | relative_url }})
 - [我的哲学]({{ "/Blogs/我的哲学" | relative_url }})
+- [我是理工经双er,下学期该选什么课?]({{ "/Blogs/理工经双er" | relative_url }})
