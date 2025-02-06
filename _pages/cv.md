@@ -51,15 +51,18 @@ redirect_from:
 * Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
 
-#### Education
+Education
+======
 * Undergraduate: Beijing, Peking University, 2022
   * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
   * Double Degree: Economics, National School of Development
 
-#### Awards
+Awards
+======
 * Silver Medal, China Mathematical Olympiad (CMO)
 
-#### Research Experience
+Research Experience
+======
 * Past (The following three research experiences were all rotations in the Turing Class) 
   * Scoring Rules and Prediction Markets, Advisor: Kong Yuqing
   * Multimodal Large Models, Advisor: Peng Yuxin
@@ -68,7 +71,8 @@ redirect_from:
   * Large Language Models, 3D Generation Models, Advisor: Wang Yizhou
   * No output yet, most recent paper reading pre-publication reference: [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
 
-#### Skills
+Skills
+======
 * Open-source projects located at [github.com/ICUlizhi](https://github.com/ICUlizhi)
 * CS and AI Related
   * Programming Languages: Python, C/C++, JavaScript, LaTeX

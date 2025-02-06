@@ -49,15 +49,18 @@ redirect_from:
 * 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
 
-#### 学历
+学历
+======
 * 本科：北京，北京大学，2022
   * 专业：信息与计算科学（图灵班），信息科学技术学院
   * 双学位：经济学，国家发展研究院
 
-#### 奖项
+奖项
+======
 * 中国数学奥林匹克（CMO）银牌
 
-#### 研究经历
+研究经历
+======
 * 过去 (以下三段科研经历均为图灵班轮转) 
   * 评分规则与预测市场 导师 : 孔雨晴
   * 多模态大模型 导师 : 彭宇新
@@ -65,7 +68,9 @@ redirect_from:
 * 当前
   * 大语言模型、3D生成模型 导师 : 王亦洲
   * 尚无产出, 最近一次论文阅读 pre 供参考 : [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
-#### 技能
+
+技能
+======
 * 开源项目位于 [github.com/ICUlizhi](https://github.com/ICUlizhi)
 * cs, ai相关
   * 编程语言：Python、C/C++、JavaScript、LaTeX
