@@ -47,43 +47,43 @@ redirect_from:
     <br/><br/>
 </body>
 
-Contact Information
-======
-* Name: Jing Xu
-* Phone&Wechat: 15705694836
-* Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* GitHub: [github.com/ICUlizhi](https://github.com/ICUlizhi)
-* Personal Homepage: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Xu Jing  
+* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
+* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
 
-Education
-======
-* B.S. in Beijing, Peking University, 2022
+#### Education
+* Undergraduate: Beijing, Peking University, 2022
   * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Major: Economics, National School of Development
+  * Double Degree: Economics, National School of Development
 
-Awards
-======
-* Silver Medal in China Mathematical Olympiad (CMO)
+#### Awards
+* Silver Medal, China Mathematical Olympiad (CMO)
 
-Research Experiences
-======
-* Three Rotation Research Projects of Turing Class
-  * Scoring Rules and Prediction Markets
-  * Multimodal Large Models
-  * Game Theory, Control Theory & Computational Advertising
+#### Research Experience
+* Past (The following three research experiences were all rotations in the Turing Class) 
+  * Scoring Rules and Prediction Markets, Advisor: Kong Yuqing
+  * Multimodal Large Models, Advisor: Peng Yuxin
+  * Game Theory, Control Theory, and Computational Advertising, Advisor: Deng Xiaotie
+* Current
+  * Large Language Models, 3D Generation Models, Advisor: Wang Yizhou
+  * No output yet, most recent paper reading pre-publication reference: [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
 
-Skills
-======
-* Programming Languages: Python, C/C++, JavaScript, LaTeX
-* Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Multimodal Large Models (API usage and performance analysis)
-* Data Science: Data Analysis, Data Visualization
-* Software Development: Object-Oriented Programming, Version Control/Git
-* Web Development: HTML, CSS, Node.js
-* Operating Systems: Linux, Windows
-* Tools and Frameworks: TensorFlow, PyTorch, Scikit-learn, Jupyter Notebook
-* Economics: Microeconomics, Econometrics
-* Student Activities: Organizing large-scale (1000+) events, Graphic Design, External Liaison, Planning regular sports and cultural activities
-* Soft Skills: Problem Solving, Team Collaboration, Communication, Adaptability
+#### Skills
+* Open-source projects located at [github.com/ICUlizhi](https://github.com/ICUlizhi)
+* CS and AI Related
+  * Programming Languages: Python, C/C++, JavaScript, LaTeX
+  * Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Large Models (including API usage, paper reading, reproduction)
+  * Data Science: Data Analysis, Data Visualization
+  * Software Development: Object-Oriented Programming, Version Control/Git
+  * Web Development: HTML, CSS, Node.js
+  * Operating Systems: Linux, Windows
+  * Tools and Frameworks: PyTorch, Scikit-learn, Jupyter Notebook
+* Others
+  * Economics: Microeconomics, Econometrics, Game Theory
+  * Multiple Public Speaking Experiences (Academic or External Promotion)
+  * Student Organizations: Organizing Large-Scale (1000+) Events, Graphic Design, External Relations
+  * Soft Skills: Problem Solving, Teamwork, Communication, Adaptability
+
 
 
 <!--

@@ -10,7 +10,5 @@ location: "Beijing, China"
 
 
 {% include for_blog/econ-mindmap.html %}
-{% include econ-mindmap.html %}
-{% include archive-single.html %}
 
 正文内容...
