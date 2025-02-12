@@ -108,6 +108,13 @@ author_profile: true
         <div class="friend-intro">藉娴嬩屾澂鍙ｆ皵涔版潵鏃</div>
       </a>
     </div>
+    <div class="friend-card" style="background-color: #f5dda7;">
+  <a href="https://www.chenquan-tutu.top/" target="_blank">
+    <img src="https://www.chenquan-tutu.top/images/avatar.jpg" alt="QQ" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+    <div class="friend-name">QQ</div>
+    <div class="friend-intro">一只兔兔</div>
+  </a>
+</div>
   </div>
 <br/><br/><br/>
 
