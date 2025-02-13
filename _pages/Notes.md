@@ -18,7 +18,9 @@ author_profile: true
 {% include base_path %}
 ## 预告
 
-本学期新开坑: 数算A,nsd博弈论,gg博弈论(前者子集),宏经健,信数
+- 本学期确定新开坑: ych中宏, 财会, ljl计组
+- 暂定不开但是我也选: cv导论(前人之述备矣), 操作系统实验班(我并非sys人), 逻辑导论(如果最后选那我就开)
+- 加入相应[学习小组](https://iculizhi.github.io/Blogs/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84)请戳我
 
 ## 专业课
 
