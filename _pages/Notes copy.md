@@ -11,13 +11,7 @@ author_profile: true
 - 这些资料不会包含任何 **不被允许公开** 的 **课件, 往年题** 等, 仅供学习交流使用, 请勿用于商业用途. 如有侵权, 请联系我删除.
 
 
-{% raw %}{% include timeline.html %}{% endraw %}
-
-{% include timeline.html %}
-
 ## 观点与本站发展
-<br><br>
-
 
 
   <style>
@@ -98,7 +92,7 @@ author_profile: true
             }
         }
     </style>
-   
+   <details><summary>点击展开 </summary>
   <div class="timeline-container">
         <!-- 2022 秋 -->
     <div class="timeline-item">
@@ -175,7 +169,7 @@ author_profile: true
             </div>
         </div>
   </div>
-
+</details>
 
 
 
