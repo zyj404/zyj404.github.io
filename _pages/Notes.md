@@ -16,15 +16,15 @@ author_profile: true
 
 
 {% include base_path %}
-## 预告
+## News
 
-- 本学期确定新开坑: ych中宏, 数理经济学
-- 暂定不开但是我也选: cv导论, 财会, ljl计组(前人之述备矣), 操作系统实验班(我并非sys人)
+- 本学期新开坑: ych中宏, cv导论 (继承自 [lyt学长](https://www.lyt0112.com/) )
+  - 本学期较忙, 操统与计组力有不逮
 - 加入相应[学习小组](https://iculizhi.github.io/Blogs/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84)请戳我
 
 ## 专业课
 
-{% assign paths = "概论统计A(现为信概统).md,hjfpython.md,Data-Structure-and-Algorithm-A-of-pku.md,数学分析3.md,信数.md" | split: "," %}
+{% assign paths = "cvdl.md,概论统计A(现为信概统).md,hjfpython.md,Data-Structure-and-Algorithm-A-of-pku.md,数学分析3.md,信数.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
@@ -49,7 +49,7 @@ author_profile: true
 {% endfor %}
 
 ## 经双
-{% assign paths = "博弈论.md,宏观经济与健康.md" | split: "," %}
+{% assign paths = "ych中宏.md,博弈论.md,宏观经济与健康.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
