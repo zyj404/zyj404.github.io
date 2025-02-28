@@ -1,100 +1,10 @@
----
-layout: archive
-title: "Notes"
-permalink: /Notes/
-author_profile: true
----
-
-{% include base_path %}
-
-- 我的笔记不止包含书面整理, 部分还会有**辅助完成作业/整理复习资料**等能够提高效率, 节省重复性工作时间的**Python程序**
-- 这些资料不会包含任何 **不被允许公开** 的 **课件, 往年题** 等, 仅供学习交流使用, 请勿用于商业用途. 如有侵权, 请联系我删除.
-
-## 观点与本站发展
-<br><br>
-
-{% raw %}{% include timeline.html %}{% endraw %}
-
-  <style>
-
-        /* 时间线容器 */
-        .timeline-container {
-            position: relative;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-
-        /* 时间线竖线 */
-        .timeline-container::after {
-            content: '';
-            position: absolute;
-            width: 2px;
-            background-color: #3498db;
-            top: 0;
-            bottom: 0;
-            left: 20px;
-        }
-
-        /* 单个时间线项目 */
-        .timeline-item {
-            position: relative;
-            margin-bottom: 40px;
-            padding-left: 60px;
-        }
-
-        /* 时间节点圆点 */
-        .timeline-node {
-            position: absolute;
-            left: 10px;
-            top: 5px;
-            width: 20px;
-            height: 20px;
-            background: #fff;
-            border: 3px solid #3498db;
-            border-radius: 50%;
-            z-index: 1;
-        }
-
-        /* 内容区域 */
-        .content {
-            position: relative;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        /* 时间标题 */
-        .content h3 {
-            color: #3498db;
-            margin-bottom: 8px;
-        }
-
-        /* 时间日期 */
-        .time {
-            display: block;
-            color: #666;
-            font-size: 0.9em;
-            margin-bottom: 10px;
-        }
-
-        /* 响应式设计 */
-        @media (max-width: 600px) {
-            .timeline-container::after {
-                left: 10px;
-            }
-            
-            .timeline-item {
-                padding-left: 40px;
-            }
-            
-            .timeline-node {
-                left: 0;
-            }
-        }
-    </style>
-   
-  <div class="timeline-container">
+<!-- 在_includes文件夹下创建timeline.html -->
+<details class="timeline-collapsible">
+    <summary class="tl-toggle">
+        <span class="toggle-icon">▶</span>
+        &nbsp; 点击展开/收起时间线
+    </summary>
+    <div class="timeline-container">
         <!-- 2022 秋 -->
     <div class="timeline-item">
       <div class="timeline-node"></div>
@@ -170,85 +80,121 @@ author_profile: true
             </div>
         </div>
   </div>
+</details>
 
+<style>
+    /* 折叠组件样式 */
+    .timeline-collapsible {
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-radius: 8px;
+    }
 
+    .tl-toggle {
+        padding: 12px 20px;
+        background: #f8f9fa;
+        cursor: pointer;
+        list-style: none; /* 隐藏默认箭头 */
+        position: relative;
+    }
 
+    .toggle-icon {
+        position: absolute;
+        left: 15px;
+        transition: transform 0.3s;
+    }
 
-## News
+    .timeline-collapsible[open] .toggle-icon {
+        transform: rotate(90deg);
+    }
 
-- 本学期新开坑: ych中宏, 数理经济学, cv导论 (继承自 [lyt学长](https://www.lyt0112.com/) )
-  - 本学期较忙, 操统与计组力有不逮
-- 加入相应[学习小组](https://iculizhi.github.io/Blogs/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84)请戳我
+    /* 原有时间线样式保持不变 */
+            /* 时间线容器 */
+            .timeline-container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
-## 专业课
+        /* 时间线竖线 */
+        .timeline-container::after {
+            content: '';
+            position: absolute;
+            width: 2px;
+            background-color: #3498db;
+            top: 0;
+            bottom: 0;
+            left: 20px;
+        }
 
-{% assign paths = "cvdl.md,概论统计A(现为信概统).md,hjfpython.md,Data-Structure-and-Algorithm-A-of-pku.md,数学分析3.md,信数.md" | split: "," %}
+        /* 单个时间线项目 */
+        .timeline-item {
+            position: relative;
+            margin-bottom: 40px;
+            padding-left: 60px;
+        }
 
-{% for post in site.Notes reversed %}
-  {% for path in paths %}
-    {% if post.path contains path %}
-      {% include archive-single.html %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
+        /* 时间节点圆点 */
+        .timeline-node {
+            position: absolute;
+            left: 10px;
+            top: 5px;
+            width: 20px;
+            height: 20px;
+            background: #fff;
+            border: 3px solid #3498db;
+            border-radius: 50%;
+            z-index: 1;
+        }
 
+        /* 内容区域 */
+        .content {
+            position: relative;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
 
-## 公共课
-{% assign paths = "PKU-2024-IBAL-cracked-version.md,金融学概论.md,地震概论.md" | split: "," %}
+        /* 时间标题 */
+        .content h3 {
+            color: #3498db;
+            margin-bottom: 8px;
+        }
 
-{% for post in site.Notes reversed %}
-  {% for path in paths %}
-    {% if post.path contains path %}
-      {% include archive-single.html %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
+        /* 时间日期 */
+        .time {
+            display: block;
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
 
-## 经双
-{% assign paths = "ych中宏.md,数理经济学.md,博弈论.md,宏观经济与健康.md" | split: "," %}
+        /* 响应式设计 */
+        @media (max-width: 600px) {
+            .timeline-container::after {
+                left: 10px;
+            }
+            
+            .timeline-item {
+                padding-left: 40px;
+            }
+            
+            .timeline-node {
+                left: 0;
+            }
+        }
+</style>
 
-{% for post in site.Notes reversed %}
-  {% for path in paths %}
-    {% if post.path contains path %}
-      {% include archive-single.html %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-## 其他
-{% assign paths = "社会主义学习.md" | split: "," %}
-
-{% for post in site.Notes reversed %}
-  {% for path in paths %}
-    {% if post.path contains path %}
-      {% include archive-single.html %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-
-## 说明
-
-- 部分资料是**收费**的. 如果您需要获取这部分资料, 请浏览[此页](https://iculizhi.github.io/Notes/notes).
-- 也欢迎同学们来我的网站[卖笔记](https://iculizhi.github.io/Notes/notes),已有合作者: [qlc](https://github.com/Achyutace)
-
-<script src="https://giscus.app/client.js"
-        data-repo="ICUlizhi/ICUlizhi.github.io"
-        data-repo-id="R_kgDOKfCXRQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOKfCXRc4CknGa"
-        data-mapping="url"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
+<script>
+    // 可选：添加平滑过渡动画
+    document.querySelectorAll('.timeline-collapsible').forEach(item => {
+        item.addEventListener('toggle', function() {
+            if (this.open) {
+                this.querySelector('.timeline-container').style.maxHeight = '10000px';
+            } else {
+                this.querySelector('.timeline-container').style.maxHeight = '0';
+            }
+        });
+    });
 </script>
