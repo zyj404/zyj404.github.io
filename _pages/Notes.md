@@ -132,7 +132,7 @@ author_profile: true
         <div class="timeline-item">
             <div class="timeline-node"></div>
             <div class="content">
-                <h3>得之吾幸, 失之吾命, 推而广之, 大道吾往</h3>
+                <h3>得之吾幸, 失之吾命</h3>
                 <span class="time">2024 暑假</span>
                 <p>那是我最颓废黑暗的一段时间, 可我闲暇时写的项目 <a href="https://github.com/ICUlizhi/PKU-2024-IBAL-cracked-version" target="_blank">PKU-2024-IBAL-cracked-version</a> 竟大幅提升了身边同学的分数, 同时将课外学习时长缩短整整 5 倍，这不过是调调 API，根本没有用上多少我的技术力。我萌生了将这种模式<strong>推广</strong>的想法。</p>
                 <div class="methodology">
