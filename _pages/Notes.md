@@ -13,19 +13,6 @@ author_profile: true
 ## 观点与本站发展
 
   <style>
-        /* 基础样式 */
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 50px 20px;
-            background-color: #f5f5f5;
-        }
 
         /* 时间线容器 */
         .timeline-container {
@@ -110,7 +97,7 @@ author_profile: true
       <div class="timeline-node"></div>
         <div class="content">
                 <h3>你好, EECS</h3>
-                <span class="time">2022 秋</h4>
+                <span class="time">2022 秋</span>
                 <p>入燕园，初窥计算机语言与 Github，度过了浑浑噩噩的第一个学期。</p>
         </div>
     </div>
@@ -119,7 +106,7 @@ author_profile: true
       <div class="timeline-node"></div>
         <div class="content">
                 <h3>写不好字的少年</h3>
-                <span class="time">2023 春</h4>
+                <span class="time">2023 春</span>
                 <p>邂逅 <strong>markdown, LaTeX</strong> 等书面语言，用了一个学期熟练掌握了数学公式的书写，即背诵了绝大多数符号的代码，初学者可以善用 <a href="http://detexify.kirelabs.org/classify.html" target="_blank">Detexify</a>。彼时我连 word + 公式编辑器的配置都做不到随堂记录。虽然耗时耗力, 但精美的笔记产出仍动人心弦, 谁能料想, 那会是一个从小到大都写不好字的少年, 雕琢出来的字符诗. </p>
         </div>
       </div>
@@ -128,7 +115,7 @@ author_profile: true
       <div class="timeline-node"></div>
       <div class="content">
                 <h3>决策的博弈? 信息的博弈</h3>
-                <span class="time">2024 春</h4>
+                <span class="time">2024 春</span>
                 <p>疲于应付图班硬课和双学位的我意识到：学长们祖传资料有<strong>补天之能</strong>，迥异于信科陈腐教学体系。我开始大规模记，主要是用 markdown。同时小范围传播，无形中作为筹码换取信息。</p>
         <div class="theory-box">
                     <ul>
@@ -144,7 +131,7 @@ author_profile: true
             <div class="timeline-node"></div>
             <div class="content">
                 <h3>得之吾幸, 失之吾命, 推而广之, 大道吾往</h3>
-                <span class="time">2024 暑假</h4>
+                <span class="time">2024 暑假</span>
                 <p>那是我最颓废黑暗的一段时间, 可我闲暇时写的项目 <a href="https://github.com/ICUlizhi/PKU-2024-IBAL-cracked-version" target="_blank">PKU-2024-IBAL-cracked-version</a> 竟大幅提升了身边同学的分数, 同时将课外学习时长缩短整整 5 倍，这不过是调调 API，根本没有用上多少我的技术力。我萌生了将这种模式<strong>推广</strong>的想法。</p>
                 <div class="methodology">
                     <ul>
@@ -159,7 +146,7 @@ author_profile: true
             <div class="timeline-node"></div>
             <div class="content">
                 <h3>开源宣言</h3>
-                <span class="time">2024 秋</h4>
+                <span class="time">2024 秋</span>
                 <p>本站建成，初志鬻文籍，半藏半公，兼营个人主页。然初志浅狭，<strong>今尽开我藏。岂在锱铢之利？</strong></p>
                 <div class="methodology">
                     <ul>
@@ -175,11 +162,11 @@ author_profile: true
             <div class="timeline-node"></div>
             <div class="content">
                 <h3>范式升级</h3>
-                <span class="time">2025 春</h4>
+                <span class="time">2025 春</span>
                 <p>经娄学长指点，我决定全面采用基于 LaTeX 的 <a href="https://github.com/ElegantLaTeX/ElegantBook" target="_blank">ElegantBook</a> 模版，这意味着教材/专著级的笔记质量，可刻印成书。</p>
             </div>
         </div>
-    </div>
+  </div>
 
 
 
