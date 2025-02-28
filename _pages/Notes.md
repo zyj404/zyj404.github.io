@@ -10,10 +10,9 @@ author_profile: true
 - 我的笔记不止包含书面整理, 部分还会有**辅助完成作业/整理复习资料**等能够提高效率, 节省重复性工作时间的**Python程序**
 - 这些资料不会包含任何 **不被允许公开** 的 **课件, 往年题** 等, 仅供学习交流使用, 请勿用于商业用途. 如有侵权, 请联系我删除.
 
-## 观点与本站发展
-<br><br>
 
-{% raw %}{% include timeline.html %}{% endraw %}
+## 观点与本站发展
+
 
   <style>
 
@@ -93,7 +92,7 @@ author_profile: true
             }
         }
     </style>
-   
+   <details><summary>点击展开 </summary>
   <div class="timeline-container">
         <!-- 2022 秋 -->
     <div class="timeline-item">
@@ -170,7 +169,7 @@ author_profile: true
             </div>
         </div>
   </div>
-
+</details>
 
 
 
