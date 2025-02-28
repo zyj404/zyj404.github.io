@@ -12,7 +12,7 @@ author_profile: true
 
 ## 观点与本站发展
 
-<style>
+  <style>
         /* 基础样式 */
         * {
             box-sizing: border-box;
@@ -103,42 +103,42 @@ author_profile: true
             }
         }
     </style>
-   <div class="timeline-container">
+   
+  <div class="timeline-container">
         <!-- 2022 秋 -->
-        <div class="timeline-item">
-            <div class="timeline-node"></div>
-            <div class="content">
+    <div class="timeline-item">
+      <div class="timeline-node"></div>
+        <div class="content">
                 <h3>你好, EECS</h3>
                 <span class="time">2022 秋</h4>
                 <p>入燕园，初窥计算机语言与 Github，度过了浑浑噩噩的第一个学期。</p>
-            </div>
         </div>
+    </div>
         <!-- 2023 春 -->
-        <div class="timeline-item">
-            <div class="timeline-node"></div>
-            <div class="content">
+    <div class="timeline-item">
+      <div class="timeline-node"></div>
+        <div class="content">
                 <h3>写不好字的少年</h3>
                 <span class="time">2023 春</h4>
                 <p>邂逅 <strong>markdown, LaTeX</strong> 等书面语言，用了一个学期熟练掌握了数学公式的书写，即背诵了绝大多数符号的代码，初学者可以善用 <a href="http://detexify.kirelabs.org/classify.html" target="_blank">Detexify</a>。彼时我连 word + 公式编辑器的配置都做不到随堂记录。虽然耗时耗力, 但精美的笔记产出仍动人心弦, 谁能料想, 那会是一个从小到大都写不好字的少年, 雕琢出来的字符诗. </p>
-            </div>
         </div>
+      </div>
         <!-- 2024 春 -->
-        <div class="timeline-item">
-            <div class="timeline-node"></div>
-            <div class="content">
+    <div class="timeline-item">
+      <div class="timeline-node"></div>
+      <div class="content">
                 <h3>决策的博弈? 信息的博弈</h3>
                 <span class="time">2024 春</h4>
                 <p>疲于应付图班硬课和双学位的我意识到：学长们祖传资料有<strong>补天之能</strong>，迥异于信科陈腐教学体系。我开始大规模记，主要是用 markdown。同时小范围传播，无形中作为筹码换取信息。</p>
-                <div class="theory-box">
+        <div class="theory-box">
                     <ul>
                         <li>在高等教育领域，信息获取能力是继智力因素后的第二竞争力</li>
                         <li>技术文档能力已成为学术共同体的新型准入壁垒</li>
                         <li>知识共享可重构传统师生关系，推动新的教育公平进程</li>
-                        <li>大概陈腐的不是信科，而是授课-学习-考试的模式，常为新的北大可以有更先进更高效的方法</li>
-                    </ul>
-                </div>
-            </div>
+                        <li>大概陈腐的不是信科，而是授课-学习-考试的模式，常为新的北大可以有更先进更高效的方法</li></ul>
         </div>
+      </div>
+    </div>
         <!-- 2024 暑假 -->
         <div class="timeline-item">
             <div class="timeline-node"></div>
@@ -155,7 +155,7 @@ author_profile: true
             </div>
         </div>
         <!-- 2024 秋 -->
-        <div class="timeline-item">
+    <div class="timeline-item">
             <div class="timeline-node"></div>
             <div class="content">
                 <h3>开源宣言</h3>
@@ -171,7 +171,7 @@ author_profile: true
             </div>
         </div>
         <!-- 2025 春 -->
-        <div class="timeline-item">
+      <div class="timeline-item">
             <div class="timeline-node"></div>
             <div class="content">
                 <h3>范式升级</h3>
