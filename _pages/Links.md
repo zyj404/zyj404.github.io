@@ -120,6 +120,11 @@ author_profile: true
 
 
 请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我.
+- Name: Jing Xu's Site
+- Introduction: 上士闻道, 勤而行之.
+- Link: https://iculizhi.github.io/
+- Icon: https://iculizhi.github.io/images/xj.png
+
 <br/>
 如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
 <!-- Giscus 评论系统嵌入 -->
