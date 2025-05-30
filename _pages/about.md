@@ -20,7 +20,6 @@ The website is still under construction. Codes and course notes are uploading qu
 
 <h2>Pageviews</h2>
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
-手残把以前的访问记录全删了×
 <h2>Contact me</h2>
 
 

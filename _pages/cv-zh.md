@@ -45,7 +45,7 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名：徐靖  
+* 姓名: Your Name
 * 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
 
@@ -55,36 +55,6 @@ redirect_from:
   * 专业：信息与计算科学（图灵班），信息科学技术学院
   * 双学位：经济学，国家发展研究院
 
-奖项
-======
-* 中国数学奥林匹克（CMO）银牌
-
-研究经历
-======
-* 过去 (以下三段科研经历均为图灵班轮转) 
-  * 评分规则与预测市场 导师 : 孔雨晴
-  * 多模态大模型 导师 : 彭宇新
-  * 博弈论、控制理论与计算广告 导师 : 邓小铁
-* 当前
-  * 大语言模型、3D生成模型 导师 : 王亦洲
-  * 尚无产出, 最近一次论文阅读 pre 供参考 : [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
-
-技能
-======
-* 开源项目位于 [github.com/ICUlizhi](https://github.com/ICUlizhi)
-* cs, ai相关
-  * 编程语言：Python、C/C++、JavaScript、LaTeX
-  * 人工智能：机器学习、深度学习、自然语言处理、大模型（包括 API 使用, 论文阅读, 复现）
-  * 数据科学：数据分析、数据可视化
-  * 软件开发：面向对象编程、版本控制/Git
-  * Web 开发：HTML、CSS、Node.js
-  * 操作系统：Linux、Windows
-  * 工具和框架：PyTorch、Scikit-learn、Jupyter Notebook
-* 其他
-  * 经济学：微观经济、计量经济、博弈论
-  * 多次演讲经历 (学术或对外宣传)
-  * 学生组织：组织大型（1000+）活动、平面设计、外联
-  * 软技能：解决问题、团队协作、沟通、适应性
 
 
 <!--

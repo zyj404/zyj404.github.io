@@ -47,7 +47,7 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Xu Jing  
+* Name: Your Name 
 * Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
 
@@ -60,35 +60,6 @@ Education
 Awards
 ======
 * Silver Medal, China Mathematical Olympiad (CMO)
-
-Research Experience
-======
-* Past (The following three research experiences were all rotations in the Turing Class) 
-  * Scoring Rules and Prediction Markets, Advisor: Kong Yuqing
-  * Multimodal Large Models, Advisor: Peng Yuxin
-  * Game Theory, Control Theory, and Computational Advertising, Advisor: Deng Xiaotie
-* Current
-  * Large Language Models, 3D Generation Models, Advisor: Wang Yizhou
-  * No output yet, most recent paper reading pre-publication reference: [Dreamfusion](https://www.bilibili.com/video/BV1QkNHeHE3y/?vd_source=0de3e2c2bc626ecfacd0dcb9c7e40ce7)
-
-Skills
-======
-* Open-source projects located at [github.com/ICUlizhi](https://github.com/ICUlizhi)
-* CS and AI Related
-  * Programming Languages: Python, C/C++, JavaScript, LaTeX
-  * Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Large Models (including API usage, paper reading, reproduction)
-  * Data Science: Data Analysis, Data Visualization
-  * Software Development: Object-Oriented Programming, Version Control/Git
-  * Web Development: HTML, CSS, Node.js
-  * Operating Systems: Linux, Windows
-  * Tools and Frameworks: PyTorch, Scikit-learn, Jupyter Notebook
-* Others
-  * Economics: Microeconomics, Econometrics, Game Theory
-  * Multiple Public Speaking Experiences (Academic or External Promotion)
-  * Student Organizations: Organizing Large-Scale (1000+) Events, Graphic Design, External Relations
-  * Soft Skills: Problem Solving, Teamwork, Communication, Adaptability
-
-
 
 <!--
 Work experience
