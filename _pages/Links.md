@@ -68,7 +68,7 @@ author_profile: true
     <!-- 每个好友卡片 -->
     <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://iculizhi.github.io" target="_blank">
-        <img src="../images/xj.png" alt="ICUlizhi's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <img src="../images/xj.jpg" alt="ICUlizhi's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">ICUlizhi's Blog</div>
         <div class="friend-intro">上士闻道, 勤而行之</div>
       </a>
