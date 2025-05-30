@@ -1,5 +1,5 @@
 # 谈谈我对这个项目的理解
-academicpages没有系统性的官方文档,这让我这么一个门外汉在diy的时候遇到了很多困难,因此撰写了这个文档用以参考
+academicpages没有系统性的官方文档, 我在diy的时候遇到了很多困难, 因此撰写了这个文档用以参考
 - 项目源码: https://github.com/academicpages/academicpages.github.io
 - 我的DIY版本: https://github.com/ICUlizhi/ICUlizhi.github.io
 ## 一. academicpages的文件系统
@@ -71,10 +71,19 @@ bundle exec jekyll liveserve
 然后就可以在[http://localhost:4000/](http://localhost:4000/)看到我们的网站了,这个进程你不关闭它是不会停的,且会在运行中输出一些报错
 
 ## 三. diy方法
-### 基本信息设置
-看教程
-### 如何在导航栏中增加 repositories
+### :star2: 基本信息设置
+- 请打开 ```_config.yml```
+- 这个文件里有大量个人信息, 建议从头开始改, 直到 author: 模块
+- 注意照片文件用png, 放在image文件夹
+### :star2: 在主页加一个记录访问情况的世界地图
+[点这里](https://mapmyvisitors.com/)
+- 在这个网站整一个,输出一个html对象,复制到 about.md 即可
 
+### :star2: 在任意页添加评论区
+[点这里](https://giscus.app/)
+- 在这个网站整一个,输出一个html对象,复制到对应页的 md 文件即可
+### :star2: 如何在导航栏中增加 Repositories 栏目
+以下代码块中的都需要添加, Repositories 可以根据需要修改为其他名称
 #### 1. config.yml 
 
 Collections模块
@@ -116,8 +125,7 @@ author_profile: true
 {% endfor %}
 ```
 #### 4. _Repositories
-
-为每个项目准备一个md,例如PKU-2024-IBAL-cracked-version.md
+该栏目下的md文件需要放在根目录下的_Repositories文件夹中, 请自行创建, 例如PKU-2024-IBAL-cracked-version.md
 ```
 ---
 title: "PKU-2024-IBAL-cracked-version"
@@ -135,13 +143,10 @@ location: "Beijing, China"
 参考效果
 <img src = 'images for how to use it/image3.png'>
 
-### 在主页加一个记录访问情况的世界地图
-[点这里](https://mapmyvisitors.com/)
-- 在这个网站整一个,输出一个html对象,复制到about.md,1分钟搞定
 
-### 导航页代码参考
+
+### :star2: 导航页代码参考
 以Notes页为例:
-markdown的标题等等可以自由发挥
 #### Front Matter
 定义页面的元数据和布局信息
 ```
@@ -164,20 +169,9 @@ author_profile: true
     {% endif %}
   {% endfor %}
 ```
-这些md文件需要出现在根目录下_Notes文件夹中,不推荐使用直接遍历的写法
+这些md文件需要出现在根目录下_Notes文件夹中, 也可以直接遍历
 #### md文件的内容
-其实就是Front Matter+自由发挥的markdown,可参考[模版](https://github.com/ICUlizhi/ICUlizhi.github.io/blob/master/files/nameofthemd.md)
+其实就是Front Matter+自由发挥的markdown,可参考[模版](https://github.com/ICUlizhi/academicpages-stu-/blob/main/files/nameofthemd.md)
 
 效果展示:
 <img src = 'images for how to use it/image4.png'>
-
-## 四. include研究
-### 页面本身
-#### archive-single.html
-似乎是最简单的md展示,只是简单的罗列标题和展示
-- archive-single-cv,archive-single-talk-cv,archive-single-talk 这些做了定制
-### analytics-providets
-### comments-providers
-### footer
-### head
-111
